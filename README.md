@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/jaejun-lee06/ICS2O-Unit6-04)](https://repl.it/github/jaejun-lee06/ICS2O-Unit6-04)
 
-This site can be found at: [https://jaejun-lee06.github.io/ICS2O-Unit6-04](https://jaejun-lee06.github.io/ICS2O-Unit6-04
+This site can be found at: [https://jaejun-lee06.github.io/ICS2O-Unit6-04](https://jaejun-lee06.github.io/ICS2O-Unit6-04)
